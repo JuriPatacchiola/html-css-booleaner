@@ -53,3 +53,15 @@ main {
     font-size: 12px;
     color: #808080;
 }
+
+.container-img{
+    margin-bottom: 20px;
+}
+
+.yelloy{
+    background-color: #FFFF00;
+}
+
+.tex-center{
+    justify-content: center;
+}
