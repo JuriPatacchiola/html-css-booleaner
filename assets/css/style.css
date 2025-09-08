@@ -57,6 +57,9 @@ main {
 .container-img{
     margin-bottom: 20px;
 }
+.size{
+    font-size: 12px;
+}
 
 .yelloy{
     background-color: #FFFF00;
@@ -113,4 +116,7 @@ color: #fff;
 }
 .bold{
     font-weight: bold;
+}
+h3{
+    color: #808080;
 }
