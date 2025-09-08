@@ -65,3 +65,31 @@ main {
 .tex-center{
     justify-content: center;
 }
+
+ul {
+  margin: 20px 0;
+  padding-left: 16px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+thead {
+  background-color:#1FA9E5;
+  font-weight: bold;
+}
+.blue-normal{
+    padding: 0px;
+    text-align: left;
+    color: white;
+}
+.different{
+    background-color: #B1E4F2;
+}
+td{
+    width: 50px;
+}
