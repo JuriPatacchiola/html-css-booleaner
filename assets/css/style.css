@@ -93,3 +93,24 @@ thead {
 td{
     width: 50px;
 }
+
+.box {
+    margin: 20px 0;
+  font-family: sans-serif;
+}
+
+.box-item {
+ width: 240px;
+ height: 160px; 
+margin-bottom: 12px;
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: flex-start; 
+align-items: flex-start;     
+padding: 1rem;
+color: #fff;
+}
+.bold{
+    font-weight: bold;
+}
